@@ -24,7 +24,7 @@ git clone https://github.com/MohamedKamalOthman/kotlin-calculator-3.git
 - Select the operation you want to perform (+, -, x, or ÷).
 - Enter the second operand using the number buttons.
 - Press the equals button (=) to calculate the result.
-- To clear the calculator, press the clear button (C).
+- To clear the calculator, press the clear button (AC).
 
 # Demo Video
 
